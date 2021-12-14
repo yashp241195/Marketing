@@ -1,5 +1,6 @@
-Content Strategy for Instagram (Artistt app),
-  For example,
+## Content Strategy for Instagram (Artistt app),
+
+For example,
   niche = UI/UX Designs
  - Share UI/UX Designs posts, can use  .
  - Follow big accounts(large followers) in UI/UX niche.
@@ -8,3 +9,5 @@ Content Strategy for Instagram (Artistt app),
  - Promote Pages of smaller accounts in UI/UX designers because that's our main task to promote people and
    this is what our app will do. So this account will act as a proxy for artistt app as well.
   We need to do the same for other niches as well. We need 2-3 niches only till 1000 followers.
+
+For finding hashtags : https://gravtag.com/discover
